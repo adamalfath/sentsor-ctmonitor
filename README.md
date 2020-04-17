@@ -11,10 +11,17 @@ SENTSOR CT Monitor merupakan perangkat interface untuk DAQ, logging, dan monitor
 - **Local AP config**: tersedia access point local untuk konfigurasi CT ratio, sensing interval, log interval, wireless setting, dll.
 - **Web Dashboard**: visualisasi time-series data.
 - **Report Generator**: mengirimkan report data (ex: min/max/average value, active time, operational time, alarm) untuk interval yang ditentukan via E-mail.
-- **Industrial design**: enclosure rating IP41 (ekivalen), temperatur kerja −20°C sampai 85°C, tested 24/7 +1000h and still counting
+- **Industrial design**: enclosure rating IP51 (ekivalen, proteksi terhadap debu dan tetesan air), temperatur kerja −20°C sampai 85°C, tested 24/7 +1000h and still counting
 
 ## Gallery
-<img src="" width="400"> <img src="" width="400">  
+_Hardware:_  
+<img src="https://github.com/adamalfath/sentsor-ctmonitor/blob/master/media/ctmonitor-img0.jpg" width="400"> <img src="https://github.com/adamalfath/sentsor-ctmonitor/blob/master/media/ctmonitor-img1.jpg" width="400">  
+<img src="https://github.com/adamalfath/sentsor-ctmonitor/blob/master/media/ctmonitor-img2.jpg" width="400"> <img src="https://github.com/adamalfath/sentsor-ctmonitor/blob/master/media/ctmonitor-img3.jpg" width="400">  
+<img src="https://github.com/adamalfath/sentsor-ctmonitor/blob/master/media/ctmonitor-img4.jpg" width="400"> <img src="https://github.com/adamalfath/sentsor-ctmonitor/blob/master/media/ctmonitor-img5.jpg" width="400">  
+<img src="https://github.com/adamalfath/sentsor-ctmonitor/blob/master/media/ctmonitor-img6.jpg" width="400"> <img src="https://github.com/adamalfath/sentsor-ctmonitor/blob/master/media/ctmonitor-img7.jpg" width="400">
+
+_Dashboard:_  
+<img src="https://github.com/adamalfath/sentsor-ctmonitor/blob/master/media/ctmonitor-web-ss.png" width="804">
 
 ## Support Open-Source Hardware & SENTSOR!
 Bila kalian tertarik dengan produk-produk SENTSOR, kalian bisa cek marketplace di link berikut:  
