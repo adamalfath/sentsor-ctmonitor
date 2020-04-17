@@ -3,15 +3,15 @@
 SENTSOR CT Monitor merupakan perangkat interface untuk DAQ, logging, dan monitoring konsumsi arus listrik AC via Current Transformer. Perangkat ini juga sudah _IoT Ready_, dengan demikian user dapat mengetahui nilai sensor secara realtime melalui web dashboard yang disediakan.
 
 ## Features
-- **Current transformer DAQ**: support maksimal untuk CT 5A.
-- **Local timestamp**: RTC akurat tersinkronisasi dengan NTP.
-- **Local datalogging**: file CSV tersimpan diperangkat lokal dalam MicroSD Card.
-- **Remote monitoring**: perangkat terhubung dengan protokol MQTT via WiFi.
-- **Local monitoring**: disediakan koneksi RS485 untuk keperluan interkoneksi data secara lokal.
-- **Local AP config**: tersedia access point local untuk konfigurasi CT ratio, sensing interval, log interval, wireless setting, dll.
+- **Current Transformer DAQ**: support maksimal untuk CT 5A.
+- **Local Timestamp**: RTC akurat tersinkronisasi dengan NTP.
+- **Local Datalogging**: file CSV tersimpan diperangkat lokal dalam MicroSD Card.
+- **Remote Monitoring**: perangkat terhubung dengan protokol MQTT via WiFi.
+- **Local Monitoring**: disediakan koneksi RS485 untuk keperluan interkoneksi data secara lokal.
+- **Local AP Config**: tersedia access point local untuk konfigurasi CT ratio, sensing interval, log interval, wireless setting, dll.
 - **Web Dashboard**: visualisasi time-series data.
 - **Report Generator**: mengirimkan report data (ex: min/max/average value, active time, operational time, alarm) untuk interval yang ditentukan via E-mail.
-- **Industrial design**: enclosure rating IP51 (ekivalen, proteksi terhadap debu dan tetesan air), temperatur kerja -20°C sampai 85°C, tested 24/7 +1000h and still counting
+- **Industrial Design**: enclosure rating IP51 (ekivalen, proteksi terhadap debu dan tetesan air), temperatur kerja -20°C sampai 85°C, tested 24/7 +1000h and still counting
 
 ## Gallery
 _Hardware:_  
