@@ -11,7 +11,7 @@ SENTSOR CT Monitor merupakan perangkat interface untuk DAQ, logging, dan monitor
 - **Local AP config**: tersedia access point local untuk konfigurasi CT ratio, sensing interval, log interval, wireless setting, dll.
 - **Web Dashboard**: visualisasi time-series data.
 - **Report Generator**: mengirimkan report data (ex: min/max/average value, active time, operational time, alarm) untuk interval yang ditentukan via E-mail.
-- **Industrial design**: enclosure rating IP51 (ekivalen, proteksi terhadap debu dan tetesan air), temperatur kerja −20°C sampai 85°C, tested 24/7 +1000h and still counting
+- **Industrial design**: enclosure rating IP51 (ekivalen, proteksi terhadap debu dan tetesan air), temperatur kerja -20°C sampai 85°C, tested 24/7 +1000h and still counting
 
 ## Gallery
 _Hardware:_  
