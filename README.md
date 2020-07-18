@@ -3,7 +3,7 @@
 SENTSOR CT Monitor merupakan perangkat interface untuk DAQ, logging, dan monitoring konsumsi arus listrik AC via Current Transformer. Perangkat ini juga sudah _IoT Ready_, dengan demikian user dapat mengetahui nilai sensor secara realtime melalui web dashboard yang disediakan.
 
 ## Features
-- **Current Transformer DAQ**: support maksimal untuk CT 5A.
+- **Current Transformer DAQ**: support maksimal untuk secondary CT 5A.
 - **Local Timestamp**: RTC akurat tersinkronisasi dengan NTP.
 - **Local Datalogging**: file CSV tersimpan diperangkat lokal dalam MicroSD Card.
 - **Remote Monitoring**: perangkat terhubung dengan protokol MQTT via WiFi.
