@@ -6,7 +6,7 @@ SENTSOR CT Monitor merupakan perangkat interface untuk DAQ, logging, dan monitor
 - **Current Transformer DAQ**: support maksimal untuk secondary CT 5A.
 - **Local Timestamp**: RTC akurat tersinkronisasi dengan NTP.
 - **Local Datalogging**: file CSV tersimpan diperangkat lokal dalam MicroSD Card.
-- **Remote Monitoring**: perangkat terhubung dengan protokol MQTT via WiFi.
+- **Remote Monitoring**: perangkat terhubung dengan jaringan menggunakan protokol MQTT via WiFi.
 - **Local Monitoring**: disediakan koneksi RS485 untuk keperluan interkoneksi data secara lokal.
 - **Local AP Config**: tersedia access point local untuk konfigurasi CT ratio, sensing interval, log interval, wireless setting, dll.
 - **Web Dashboard**: visualisasi time-series data.
